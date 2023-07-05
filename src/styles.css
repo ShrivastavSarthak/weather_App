@@ -1,0 +1,14 @@
+::-webkit-scrollbar {
+  width: 0;
+}
+html,
+body {
+  background-color: #f2f27e;
+  background-image: url("https://www.transparenttextures.com/patterns/climpek.png");
+}
+
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  height: 100%;
+}
